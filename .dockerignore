@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+*.zip
+npm-debug.log
+README.md
+kubernetes

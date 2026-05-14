@@ -49,12 +49,12 @@ export default function NavBar () {
                   open={Boolean(anchorEl)}
                   onClose={handleClose}
                 >
-                  <MenuItem id="todo" onClick={handleClose}>TODOs</MenuItem>
+                  <MenuItem id="todo" onClick={handleClose}>TODOs von Reihs Matthias </MenuItem>
                   
                   
                 </Menu> 
                 <Typography variant="h6">
-                TODO App
+                TODO App - Reihs Matthias 
               </Typography>
             </Toolbar>
           </AppBar>
